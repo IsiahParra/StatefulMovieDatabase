@@ -16,6 +16,7 @@
 		41990FB427B4CA170093B4DB /* NetworkController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41990FB327B4CA170093B4DB /* NetworkController.swift */; };
 		41990FB627B4CA590093B4DB /* MovieListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41990FB527B4CA590093B4DB /* MovieListTableViewController.swift */; };
 		41990FB827B4CAAF0093B4DB /* MovieTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41990FB727B4CAAF0093B4DB /* MovieTableViewCell.swift */; };
+		9D095E13284924D900181E7F /* ResultsError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D095E12284924D900181E7F /* ResultsError.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		41990FB327B4CA170093B4DB /* NetworkController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkController.swift; sourceTree = "<group>"; };
 		41990FB527B4CA590093B4DB /* MovieListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieListTableViewController.swift; sourceTree = "<group>"; };
 		41990FB727B4CAAF0093B4DB /* MovieTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieTableViewCell.swift; sourceTree = "<group>"; };
+		9D095E12284924D900181E7F /* ResultsError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsError.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 			isa = PBXGroup;
 			children = (
 				41990FB327B4CA170093B4DB /* NetworkController.swift */,
+				9D095E12284924D900181E7F /* ResultsError.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				41990FB627B4CA590093B4DB /* MovieListTableViewController.swift in Sources */,
+				9D095E13284924D900181E7F /* ResultsError.swift in Sources */,
 				41990FB427B4CA170093B4DB /* NetworkController.swift in Sources */,
 				41990FB827B4CAAF0093B4DB /* MovieTableViewCell.swift in Sources */,
 				418FA6A827B4058300ABEC96 /* AppDelegate.swift in Sources */,
